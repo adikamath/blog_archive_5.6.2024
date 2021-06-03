@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Python
+category: python
 ---
 
 Today I'm writing about Pandas in Python! I've used the Pandas library a few times and I find it incredibly useful to handle all data wrangling tasks...there's so much you can do with Pandas that I've only scratched the surface. So I'm going to demonstrate a few of its features here so that I keep forgetting for the lack of practice.

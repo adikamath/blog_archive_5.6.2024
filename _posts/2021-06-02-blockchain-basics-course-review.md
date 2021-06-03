@@ -1,9 +1,9 @@
 ---
 layout: post
-category: example2
+category: reviews
 ---
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo.
+In this first ever review of mine, I am going to review the Blockchain Basics online course from Coursera. 
 
 ## Table of contents
 - [Table of contents](#table-of-contents)
