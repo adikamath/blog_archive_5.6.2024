@@ -10,7 +10,7 @@ It is no surprise that blockchains and cryptocurrencies have been the talk of th
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinPriceBlock.js"></script><div id="coinmarketcap-widget-coin-price-block" coins="1,1027,825,74" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
 
-###### Latest prices of some popular cryptocurrencies. [^1]
+##### Latest prices of some popular cryptocurrencies. [^1]
 
 
 ## Table of contents
@@ -27,6 +27,7 @@ It is no surprise that blockchains and cryptocurrencies have been the talk of th
 
 ## [Blockchain Structure](#blockchain-structure)
 
+![Bitcoin Blockchain Structure](/assets/images/2021-06-03-blockchain-basics/Bitcoin_Block_Data.svg)
 
 
 ## [Basic Operations](#basic-operations)
