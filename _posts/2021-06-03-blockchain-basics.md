@@ -3,15 +3,22 @@ layout: post
 category: reviews
 ---
 
-In this first ever review of mine, I am going to review the Blockchain Basics online course from Coursera. 
+It is no surprise that blockchains and cryptocurrencies have been the talk of the town for a while now and I really wanted to understand what's more to blockchains than just the buzz words. I've only taken baby steps so far but I came across this course- Blockchain Basics on Coursera that opened my eyes to the technology beyond just the buzzwords. Here's my writeup of what I learned through the course.
+
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinPriceBlock.js"></script><div id="coinmarketcap-widget-coin-price-block" coins="1,1027,74" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
+
 
 ## Table of contents
-- [Table of contents](#table-of-contents)
-- [The start](#the-start)
-- [The middle](#the-middle)
-- [The end](#the-end)
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Nunc a egestas tortor, sed feugiat leo. Vestibulum porta tincidunt tellus, vitae ornare tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nunc neque, tempor in iaculis non, faucibus et metus. Etiam id nisl ut lorem gravida euismod.
+- [Blockchain Structure](#blockchain-structure)
+- [Basic Operations](#basic-operations)
+- [What are Smart Contracts?](#smart-contracts)
+- [Another Blockchain- Ethereum](#ethereum)
+- [Incentive Model](#incentive-model)
+- [Cryptography and Hashing](#cryptography-and-hashing)
+- [Decentralization](#decentralization)
+- [Consensus Protocols](#consensus-protocols)
+- [Robustness](#robustness)
+- [Forks](#forks)
 
 ## [The start](#the-start)
 
