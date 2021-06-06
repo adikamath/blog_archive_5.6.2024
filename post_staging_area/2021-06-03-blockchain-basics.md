@@ -27,7 +27,7 @@ It is no surprise that blockchains and cryptocurrencies have been the talk of th
 
 ## [Blockchain Structure](#blockchain-structure)
 
-![Bitcoin Blockchain Structure](/assets/images/2021-06-03-blockchain-basics/Bitcoin_Block_Data.svg)
+![Bitcoin Blockchain Structure](https://adikamath.github.io/assets/images/2021-06-03-blockchain-basics/Bitcoin_Block_Data.svg)
 
 
 ## [Basic Operations](#basic-operations)
