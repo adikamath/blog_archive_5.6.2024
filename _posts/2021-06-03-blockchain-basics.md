@@ -4,7 +4,7 @@ category: reviews
 ---
 
 It is no surprise that blockchains and cryptocurrencies have been the talk of the town for a while now and I really wanted to understand what's more to blockchains than just the buzz words. I've only taken baby steps so far but I came across this course- Blockchain Basics on Coursera that opened my eyes to the technology beyond just the buzzwords. Here's my writeup of what I learned through the course.
-<br></br>
+<br>
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinPriceBlock.js"></script><div id="coinmarketcap-widget-coin-price-block" coins="1,1027,825,74" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
 
