@@ -26,7 +26,7 @@ I've only taken baby steps so far but I came across this course- Blockchain Basi
 
 Blockchain is a chain of blocks. Blocks are nothing
 
-![Bitcoin Blockchain Structure](https://upload.wikimedia.org/wikipedia/commons/5/55/Bitcoin_Block_Data.svg)
+![Bitcoin Blockchain Structure](https://adikamath.github.io/assets/images/2021-06-03-blockchain-basics/Bitcoin_Block_Data.png)
 ##### Basic structure of a Bitcoin blockchain[^2]
 
 
