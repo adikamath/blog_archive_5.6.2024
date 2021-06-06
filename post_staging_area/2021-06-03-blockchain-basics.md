@@ -44,5 +44,5 @@ Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus
 
 ## References
 
-[^1]: [CoinMarketCap.Com](https://www.coinmarketcap.com
+[^1]: [CoinMarketCap.Com](https://www.coinmarketcap.com)
 [^2]: [Matthäus Wander, CC BY-SA 3.0, via Wikimedia Commons](<https://creativecommons.org/licenses/by-sa/3.0>)
