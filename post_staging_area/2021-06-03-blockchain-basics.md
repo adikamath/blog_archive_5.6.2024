@@ -24,10 +24,30 @@ I've only taken baby steps so far but I came across this course- Blockchain Basi
 
 ## [Blockchain Structure](#blockchain-structure)
 
-Blockchain is a chain of blocks. Blocks are nothing
+Blockchain is a store of information (ledger) that is stored not in a centralized server or group of servers but on a multitude of computing devices called nodes that each have a copy of this blockchain. The blockchain itself consists of a chain of linked blocks where each block is a package of transactions along with some other metadata that helps identify the block and its location within the blockchain. As transactions happen in the network, new blocks get created and are added to the blockchain. This is how the blockchain grows. The nodes play a crucial role in processing transactions, creating and validating blocks and maintaining the integrity of the blockchain or distributed ledger It is near impossible to make any fraudulent changes to the blockchain because any change would have to be replicated across tens of thousands of copies of the blockchain near-instantly all while the blockchain is growing. This requires a practically impossible amount of computing power.
 
 ![Bitcoin Blockchain Structure](https://adikamath.github.io/assets/images/2021-06-03-blockchain-basics/Bitcoin_Block_Data.png)
 ##### Basic structure of a Bitcoin blockchain[^2]
+
+As you can see from the image above, the blockchain is a chain of blocks whereby each block is linked to the previous block. At a high-level, here are the core components of a Bitcoin block[^3]:
+
+| Block Component     | Description                                               |
+|---------------------|-----------------------------------------------------------|
+| Size                | The size of all elements contained in the block in bytes. |
+| Header              | A collection of important metadata.                       |
+| Transaction Counter | Total number of transactions contained within the block.  |
+| Transactions        | The list of all transactions.                             |
+
+And here we look closer at what makes up a block header[^4]:
+
+| Header Component    | Description                                                                                                              |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Version             | A version number that is current to the software upgrade of the network/protocol.                                        |
+| Previous Block Hash | The hash pointing to the previous or parent block of the current block in the blockchain.                                |
+| Merkle Root Hash    | The hash generated based on the current transactions listed in the current block.                                        |
+| Timestamp           | The timestamp of when the block was created.                                                                             |
+| Difficulty Target   | The difficulty level of the puzzle to be solved for this block.                                                          |
+| Nonce               | Abbreviation for "Number used only once"- the number/ answer to the puzzle that the miners have to solve for this block. |
 
 
 ## [Basic Operations](#basic-operations)
@@ -46,3 +66,5 @@ Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus
 
 [^1]: [CoinMarketCap.Com](https://www.coinmarketcap.com)
 [^2]: [Matthäus Wander, CC BY-SA 3.0, via Wikimedia Commons](<https://creativecommons.org/licenses/by-sa/3.0>)
+[^3]: [Block Structure, via Bitcoin Wiki](https://en.bitcoin.it/wiki/Block)
+[^4]: [A Decomposition Of The Bitcoin Block Header](https://www.datadriveninvestor.com/2019/11/21/a-decomposition-of-the-bitcoin-block-header/)
