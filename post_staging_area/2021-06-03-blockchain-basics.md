@@ -3,12 +3,10 @@ layout: post
 category: reviews
 ---
 
-Welcome to Part-1 of my three-part blog series on the basics of blockchains. It is no surprise that blockchains and cryptocurrencies have been the talk of the town for a while now and I really wanted to understand what's more to blockchains than just the buzz words. So I set out to teach myself as much as I could about this technology.
+Welcome to Part-1 of my blog series on the basics of blockchains. It's no surprise that blockchains and cryptocurrencies have been all the buzz for a while now and I really wanted to understand what's more to blockchains than just the buzz words. I've only taken baby steps so far but my first serious attempt at learning was when I took the course- Blockchain Basics on Coursera[^2]. This blog series is my attempt to explain what I've learned from this course and additional research I did on the topic.
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinPriceBlock.js"></script><div id="coinmarketcap-widget-coin-price-block" coins="1,1027,825,74" currency="USD" theme="light" transparent="false" show-symbol-logo="true"></div>
 ##### Latest prices of some popular cryptocurrencies. [^1]
-
-I've only taken baby steps so far but my first serious attempt at learning was when I took the course- Blockchain Basics on Coursera[^2] This blog series is my attempt to explain what I've learned from this course and additional research I did on the topic.
 
 ## Table of contents
 - [Blockchain Structure](#blockchain-structure)
